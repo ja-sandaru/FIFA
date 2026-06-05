@@ -1,1 +1,5 @@
-FIFA Match Predictor 
+<h1> FIFA Research Report </h1>
+<ul><li>In This project we were do the data collection, data clearning, and ML model creating. </li></ul>
+<h2>I. INTRODUCTION</h2>
+FIFA World Cup match results depend on a wide range of variables. That can provide valuable insights for team managers, coaches, and players.</br> Through analysing these variables, teams can assess their opponents’ strengths, weaknesses, and opportunities, as well as identify the key competitive factors that determine success. This research focuses on the variables that influence match results: wins, losses, and draws. And predict match results using machine learning models such as Logistic Regression (LR) and Random Forests (RF).
+In this study, we will complete the entire process, including data collection, feature engineering, model development, and evaluation charts. This study specifically aims to predict the results of FIFA matches (Win, Loss, or Draw) using 383 historical World Cup matches from 2002 to 2022. Therefore, the latest data represent the quality of modern world team members, ground conditions, and the new technology implemented in the match outcomes.
